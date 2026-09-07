@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./github-cover-1280x640.png" alt="CCPro-Cursor · 免费的 Cursor Pro 插件 · AI 编程 · Claude / GPT / Gemini / DeepSeek 高级模型" width="100%">
+
 # 🚀 CCPro-Cursor · 免费的 Cursor Pro 插件
 
 ### 安装即用 · 一键上号 · Claude / GPT / Gemini / DeepSeek 高级模型放开用 · AI 编程不计成本
